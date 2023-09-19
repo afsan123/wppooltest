@@ -1,0 +1,7 @@
+{
+  "appUrl": "http://localhost/demosite/wp-admin",
+  "username": "admin",
+  "password": "abcdefgh@100",
+  "timeoutSeconds": 2,
+  "timeoutMs": 1000
+}
